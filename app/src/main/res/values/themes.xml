@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.GitHubSearchRepository" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">#0F4C6A</item>
+    </style>
+</resources>

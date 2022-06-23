@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 505177860,
+      "name": "Dio-BussinessCard",
+      "owner": {
+        "login": "rsmaurilho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104845071?v=4"
+      },
+      "html_url": "https://github.com/rsmaurilho/Dio-BussinessCard",
+      "description": "App para criação de cartoes de visitas",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 498444192,
+      "name": "dio-desafio-github-primeiro-repositorio",
+      "owner": {
+        "login": "rsmaurilho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104845071?v=4"
+      },
+      "html_url": "https://github.com/rsmaurilho/dio-desafio-github-primeiro-repositorio",
+      "description": "Desafio de Projeto sobre Git/GitHub",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 499540203,
+      "name": "dio-matches-simulator",
+      "owner": {
+        "login": "rsmaurilho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104845071?v=4"
+      },
+      "html_url": "https://github.com/rsmaurilho/dio-matches-simulator",
+      "description": "App Android Nativo de Simulacao de Partidas",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 499670224,
+      "name": "dio-matches-simulator-api",
+      "owner": {
+        "login": "rsmaurilho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104845071?v=4"
+      },
+      "html_url": "https://github.com/rsmaurilho/dio-matches-simulator-api",
+      "description": "Repositorio que simula uma API REST pra obtenção de partidas.",
+      "stargazers_count": 0,
+      "language": "Json"
+    },
+    {
+      "id": 501823838,
+      "name": "dio_soccer_news_app",
+      "owner": {
+        "login": "rsmaurilho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104845071?v=4"
+      },
+      "html_url": "https://github.com/rsmaurilho/dio_soccer_news_app",
+      "description": "App Android de Noticias Sobre Futebol",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 501834634,
+      "name": "soccer_news_api",
+      "owner": {
+        "login": "rsmaurilho",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104845071?v=4"
+      },
+      "html_url": "https://github.com/rsmaurilho/soccer_news_api",
+      "description": "API (provida via GitHub Pages) do App \"Soccer News\"",
+      "stargazers_count": 0,
+      "language": "Json"
+    }
+  ]
+}
